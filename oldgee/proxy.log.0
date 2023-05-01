@@ -1,0 +1,13 @@
+11:57:47 [INFO] Enabled BungeeCord version unknown
+11:58:00 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:58:00 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:58:01 [INFO] Listening websockets on localhost/127.0.0.1:8082
+11:58:06 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:58:06 [INFO] Reload complete
+11:58:06 [INFO] Listening on /127.11.0.1:35773
+15:44:00 [INFO] [andrew_tate_only] <-> InitialHandler has connected
+15:44:00 [INFO] Player 'andrew_tate_only' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:44:00 [INFO] Player 'andrew_tate_only' [/127.0.0.1] is using a client at: mc.learnmathub.com
+15:44:00 [INFO] [andrew_tate_only] <-> ServerConnector [server] has connected
+15:46:25 [INFO] [andrew_tate_only] -> UpstreamBridge has disconnected
+15:46:28 [INFO] [andrew_tate_only] <-> DownstreamBridge <-> [server] has disconnected
