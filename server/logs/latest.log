@@ -1,0 +1,314 @@
+[11:59:26] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[11:59:26] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[11:59:26] [Server thread/INFO]: Loading properties
+[11:59:27] [Server thread/INFO]: Default game type: SURVIVAL
+[11:59:29] [Server thread/INFO]: This server is running PandaSpigot version git-PandaSpigot-85 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT) (Git: 158d845)
+[11:59:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:59:31] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[11:59:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:59:31] [Server thread/INFO]: Debug logging is disabled
+[11:59:36] [Server thread/INFO]: Data value allowed items: 
+[11:59:36] [Server thread/INFO]: Generating keypair
+[11:59:38] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[11:59:38] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[11:59:38] [Server thread/INFO]: [ProtocolSupport] Loading ProtocolSupport v4.23.dev
+[11:59:40] [Server thread/INFO]: [ProtocolSupport] Allocator: PooledByteBufAllocator(directByDefault: true), direct: true
+[11:59:40] [Server thread/INFO]: [ProtocolSupport] Compression level: 3
+[11:59:42] [Server thread/INFO]: [ProtocolSupport] Assume 1.5.2 ping delay: 100
+[11:59:42] [Server thread/INFO]: [ProtocolSupport] Assume legacy ping dealy: 200
+[11:59:42] [Server thread/INFO]: [ProtocolSupport] Login threads max count: 8, keep alive time: 60
+[11:59:42] [Server thread/WARN]: [ProtocolSupport] Native transport is enabled, this may causes issues. Disable it by setting use-native-transport in server.properties to false.
+[11:59:42] [Server thread/INFO]: [ProtocolSupport] Using injected ServerConnection
+[11:59:42] [Server thread/INFO]: [ProtocolSupport] Enabling ProtocolSupport v4.23.dev
+[11:59:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:59:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:59:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:59:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:59:43] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:59:43] [Server thread/INFO]: Preparing level "world"
+[11:59:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:59:44] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:59:44] [Server thread/INFO]: Clear tick list: false
+[11:59:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:59:44] [Server thread/INFO]: Anti X-Ray: true
+[11:59:44] [Server thread/INFO]: 	Engine Mode: 1
+[11:59:44] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:59:44] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:59:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:59:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:59:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:59:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:59:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:59:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:59:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:59:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:59:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:59:44] [Server thread/INFO]: Mob Spawn Range: 4
+[11:59:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:59:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:59:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:59:44] [Server thread/INFO]: Random Lighting Updates: false
+[11:59:44] [Server thread/INFO]: Structure Info Saving: true
+[11:59:44] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:59:44] [Server thread/INFO]: Max Entity Collisions: 8
+[11:59:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:59:44] [Server thread/INFO]: Max TNT Explosions: 100
+[11:59:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:59:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:59:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:59:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:59:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:59:44] [Server thread/INFO]: View Distance: 10
+[11:59:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:59:45] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:59:45] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:59:45] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:59:45] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:59:45] [Server thread/INFO]: World async lighting: false
+[11:59:45] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:59:45] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:59:45] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:59:45] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:59:45] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:59:45] [Server thread/INFO]: Fix TNT cannons: false
+[11:59:45] [Server thread/INFO]: Water over lava flow speed: 5
+[11:59:45] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:59:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:59:47] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:59:47] [Server thread/INFO]: Clear tick list: false
+[11:59:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:59:47] [Server thread/INFO]: Anti X-Ray: true
+[11:59:47] [Server thread/INFO]: 	Engine Mode: 1
+[11:59:47] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:59:47] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:59:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:59:47] [Server thread/INFO]: Mob Spawn Range: 4
+[11:59:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:59:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:59:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:59:47] [Server thread/INFO]: Random Lighting Updates: false
+[11:59:47] [Server thread/INFO]: Structure Info Saving: true
+[11:59:47] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:59:47] [Server thread/INFO]: Max Entity Collisions: 8
+[11:59:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:59:47] [Server thread/INFO]: Max TNT Explosions: 100
+[11:59:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:59:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:59:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:59:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:59:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:59:47] [Server thread/INFO]: View Distance: 10
+[11:59:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:59:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:59:47] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:59:47] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:59:47] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:59:47] [Server thread/INFO]: World async lighting: false
+[11:59:47] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:59:47] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:59:47] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:59:47] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:59:47] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:59:47] [Server thread/INFO]: Fix TNT cannons: false
+[11:59:47] [Server thread/INFO]: Water over lava flow speed: 5
+[11:59:47] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:59:47] [Server thread/WARN]: java.io.EOFException
+[11:59:47] [Server thread/WARN]: 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:268)
+[11:59:47] [Server thread/WARN]: 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:258)
+[11:59:47] [Server thread/WARN]: 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:164)
+[11:59:47] [Server thread/WARN]: 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+[11:59:47] [Server thread/WARN]: 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+[11:59:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:19)
+[11:59:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.getWorldData(WorldNBTStorage.java:95)
+[11:59:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:337)
+[11:59:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:301)
+[11:59:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:603)
+[11:59:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.lambda$spin$0(MinecraftServer.java:133)
+[11:59:47] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[11:59:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:59:47] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:59:47] [Server thread/INFO]: Clear tick list: false
+[11:59:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:59:47] [Server thread/INFO]: Anti X-Ray: true
+[11:59:47] [Server thread/INFO]: 	Engine Mode: 1
+[11:59:47] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:59:47] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:59:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:59:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:59:47] [Server thread/INFO]: Mob Spawn Range: 4
+[11:59:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:59:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:59:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:59:47] [Server thread/INFO]: Random Lighting Updates: false
+[11:59:47] [Server thread/INFO]: Structure Info Saving: true
+[11:59:47] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:59:47] [Server thread/INFO]: Max Entity Collisions: 8
+[11:59:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:59:47] [Server thread/INFO]: Max TNT Explosions: 100
+[11:59:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:59:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:59:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:59:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:59:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:59:47] [Server thread/INFO]: View Distance: 10
+[11:59:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:59:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:59:47] [Server thread/INFO]: Keep spawn chunk loaded: true
+[11:59:47] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[11:59:47] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[11:59:47] [Server thread/INFO]: World async lighting: false
+[11:59:47] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[11:59:47] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[11:59:47] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[11:59:47] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[11:59:47] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[11:59:47] [Server thread/INFO]: Fix TNT cannons: false
+[11:59:47] [Server thread/INFO]: Water over lava flow speed: 5
+[11:59:47] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[11:59:47] [Server thread/INFO]: Preparing start region for level 0 (Seed: 858827381333177539)
+[11:59:48] [Server thread/INFO]: Preparing spawn area: 0%
+[11:59:49] [Server thread/INFO]: Preparing spawn area: 2%
+[11:59:50] [Server thread/INFO]: Preparing spawn area: 7%
+[11:59:51] [Server thread/INFO]: Preparing spawn area: 9%
+[11:59:52] [Server thread/INFO]: Preparing spawn area: 11%
+[11:59:53] [Server thread/INFO]: Preparing spawn area: 13%
+[11:59:55] [Server thread/INFO]: Preparing spawn area: 16%
+[11:59:56] [Server thread/INFO]: Preparing spawn area: 21%
+[11:59:57] [Server thread/INFO]: Preparing spawn area: 24%
+[11:59:58] [Server thread/INFO]: Preparing spawn area: 29%
+[11:59:59] [Server thread/INFO]: Preparing spawn area: 34%
+[12:00:00] [Server thread/INFO]: Preparing spawn area: 41%
+[12:00:01] [Server thread/INFO]: Preparing spawn area: 49%
+[12:00:02] [Server thread/INFO]: Preparing spawn area: 64%
+[12:00:03] [Server thread/INFO]: Preparing spawn area: 73%
+[12:00:04] [Server thread/INFO]: Preparing spawn area: 81%
+[12:00:06] [Server thread/INFO]: Preparing spawn area: 89%
+[12:00:07] [Server thread/INFO]: Preparing spawn area: 97%
+[12:00:07] [Server thread/INFO]: Preparing start region for level 1 (Seed: 858827381333177539)
+[12:00:08] [Server thread/INFO]: Preparing spawn area: 13%
+[12:00:09] [Server thread/INFO]: Preparing spawn area: 20%
+[12:00:10] [Server thread/INFO]: Preparing spawn area: 27%
+[12:00:12] [Server thread/INFO]: Preparing spawn area: 30%
+[12:00:13] [Server thread/INFO]: Preparing spawn area: 49%
+[12:00:14] [Server thread/INFO]: Preparing spawn area: 64%
+[12:00:15] [Server thread/INFO]: Preparing spawn area: 74%
+[12:00:16] [Server thread/INFO]: Preparing spawn area: 84%
+[12:00:17] [Server thread/INFO]: Preparing spawn area: 92%
+[12:00:18] [Server thread/INFO]: Preparing spawn area: 98%
+[12:00:18] [Server thread/INFO]: Preparing start region for level 2 (Seed: 858827381333177539)
+[12:00:19] [Server thread/INFO]: Preparing spawn area: 33%
+[12:00:20] [Server thread/INFO]: Preparing spawn area: 50%
+[12:00:24] [Server thread/INFO]: Preparing spawn area: 61%
+[12:00:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:00:26] [Server thread/INFO]: Done (42.930s)! For help, type "help" or "?"
+[12:00:26] [Server thread/INFO]: Using epoll channel type
+[12:00:29] [Server thread/INFO]: Timings Reset
+[12:01:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 87924ms or 1758 ticks behind
+[12:30:45] [LoginProcessingThread/INFO]: UUID of player Account6716hhhhh is c9219ace-0c20-36b9-93dc-6a9fb4f42a7c
+[12:31:00] [Server thread/INFO]: Account6716hhhhh[<ip address withheld>] logged in with entity id 84 at ([world]-1228.2758236180077, 24.0, 492.0596386195624)
+[12:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15163ms or 303 ticks behind
+[12:31:32] [Server thread/INFO]: Account6716hhhhh lost connection: Disconnected
+[12:31:32] [Server thread/INFO]: Account6716hhhhh left the game.
+[12:31:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13815ms or 276 ticks behind
+[12:36:19] [LoginProcessingThread/INFO]: UUID of player Account6716hhhhh is c9219ace-0c20-36b9-93dc-6a9fb4f42a7c
+[12:36:19] [Server thread/INFO]: Account6716hhhhh[<ip address withheld>] logged in with entity id 155 at ([world]-1228.2758236180077, 24.0, 492.0596386195624)
+[12:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12566ms or 251 ticks behind
+[12:37:04] [Server thread/WARN]: Account6716hhhhh moved too quickly! 8.9303238720654,4.0,-15.640361368516665 (8.9303238720654, 4.0, -15.640361368516665)
+[12:37:05] [Server thread/INFO]: Account6716hhhhh lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[12:37:05] [Server thread/INFO]: Account6716hhhhh left the game.
+[12:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7217ms or 144 ticks behind
+[12:37:44] [LoginProcessingThread/INFO]: UUID of player Account6716hhhhh is c9219ace-0c20-36b9-93dc-6a9fb4f42a7c
+[12:37:46] [Server thread/INFO]: Account6716hhhhh[<ip address withheld>] logged in with entity id 199 at ([world]-1237.2061474900731, 20.0, 507.69999998807907)
+[12:37:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[12:38:08] [Server thread/INFO]: Account6716hhhhh lost connection: Disconnected
+[12:38:09] [Server thread/INFO]: Account6716hhhhh left the game.
+[12:46:14] [LoginProcessingThread/INFO]: UUID of player Account6716hhhhh is c9219ace-0c20-36b9-93dc-6a9fb4f42a7c
+[12:46:19] [Server thread/INFO]: Account6716hhhhh[<ip address withheld>] logged in with entity id 311 at ([world]-1237.2061474900731, 20.0, 507.69999998807907)
+[12:46:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5214ms or 104 ticks behind
+[12:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5216ms or 104 ticks behind
+[12:47:16] [Server thread/WARN]: Account6716hhhhh moved too quickly! 37.657131097007095,3.999189466238022,-12.030379676091911 (37.657131097007095, 3.999189466238022, -12.030379676091911)
+[12:47:22] [Server thread/WARN]: Account6716hhhhh was kicked for floating too long!
+[12:47:22] [Server thread/INFO]: Account6716hhhhh lost connection: Flying is not enabled on this server
+[12:47:22] [Server thread/INFO]: Account6716hhhhh left the game.
+[13:31:20] [LoginProcessingThread/INFO]: UUID of player eaglercraft is 9b87eafb-8e3d-3869-918c-e8a18f2959d0
+[13:31:22] [Server thread/INFO]: eaglercraft[<ip address withheld>] logged in with entity id 368 at ([world]-239.5, 69.0, 184.5)
+[13:31:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5280ms or 105 ticks behind
+[13:31:51] [Server thread/INFO]: eaglercraft lost connection: Disconnected
+[13:31:51] [Server thread/INFO]: eaglercraft left the game.
+[14:45:16] [LoginProcessingThread/INFO]: UUID of player YeeEagl269 is 84ad13b7-cbe6-3e4c-bf52-49ee0735033c
+[14:45:19] [Server thread/INFO]: YeeEagl269[<ip address withheld>] logged in with entity id 519 at ([world]-247.5, 69.0, 185.5)
+[14:45:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[14:45:54] [Server thread/INFO]: YeeEagl269 lost connection: Disconnected
+[14:45:54] [Server thread/INFO]: YeeEagl269 left the game.
+[14:46:17] [LoginProcessingThread/INFO]: UUID of player YeeEagl269 is 84ad13b7-cbe6-3e4c-bf52-49ee0735033c
+[14:46:18] [Server thread/INFO]: YeeEagl269[<ip address withheld>] logged in with entity id 582 at ([world]-247.5, 69.0, 185.5)
+[14:46:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5487ms or 109 ticks behind
+[14:46:58] [Server thread/INFO]: YeeEagl269 lost connection: Internal Exception: protocolsupport.protocol.core.timeout.IntervalReadTimeoutException$1: read timed out
+[14:46:58] [Server thread/INFO]: YeeEagl269 left the game.
+[14:47:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8103ms or 162 ticks behind
+[14:47:39] [LoginProcessingThread/INFO]: UUID of player PackLack197 is ee1c39d2-5519-37ca-99ef-f25955de2f56
+[14:47:43] [Server thread/INFO]: PackLack197[<ip address withheld>] logged in with entity id 600 at ([world]-240.5, 69.0, 195.5)
+[14:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5652ms or 113 ticks behind
+[14:48:03] [Server thread/INFO]: PackLack197 lost connection: Disconnected
+[14:48:03] [Server thread/INFO]: PackLack197 left the game.
+[14:59:50] [LoginProcessingThread/INFO]: UUID of player ___ is 3aa10d45-6372-352e-b9af-2eba497ed912
+[14:59:53] [Server thread/INFO]: ___[<ip address withheld>] logged in with entity id 645 at ([world_nether]-29.861169644472266, 34.0, 46.30000001192093)
+[14:59:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10025ms or 200 ticks behind
+[15:00:29] [Server thread/INFO]: ___ lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[15:00:30] [Server thread/INFO]: ___ left the game.
+[15:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11328ms or 226 ticks behind
+[15:02:01] [LoginProcessingThread/INFO]: UUID of player ___ is 3aa10d45-6372-352e-b9af-2eba497ed912
+[15:02:04] [Server thread/INFO]: ___[<ip address withheld>] logged in with entity id 678 at ([world_nether]-29.861169644472266, 34.0, 46.30000001192093)
+[15:02:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5147ms or 102 ticks behind
+[15:02:23] [Server thread/INFO]: ___ lost connection: Disconnected
+[15:02:23] [Server thread/INFO]: ___ left the game.
+[15:18:16] [LoginProcessingThread/INFO]: UUID of player VoolYee219 is 382c78b9-7c78-3738-acaa-c899a00c6dad
+[15:18:20] [Server thread/INFO]: VoolYee219[<ip address withheld>] logged in with entity id 716 at ([world]-246.5, 70.0, 191.5)
+[15:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[15:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8939ms or 178 ticks behind
+[15:19:06] [Server thread/INFO]: VoolYee219 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[15:19:06] [Server thread/INFO]: VoolYee219 left the game.
+[15:19:10] [LoginProcessingThread/INFO]: UUID of player VoolYee219 is 382c78b9-7c78-3738-acaa-c899a00c6dad
+[15:19:14] [Server thread/INFO]: VoolYee219[<ip address withheld>] logged in with entity id 735 at ([world]-238.59476548595592, 69.7531999805212, 189.27467081624724)
+[15:19:21] [Async Chat Thread - #0/INFO]: <VoolYee219> hello nigs
+[15:19:45] [Server thread/INFO]: VoolYee219 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[15:19:45] [Server thread/INFO]: VoolYee219 left the game.
+[15:34:22] [LoginProcessingThread/INFO]: UUID of player EventualVoice79 is 1d688a32-92b4-3d33-8def-d2dacc3a0e88
+[15:34:25] [Server thread/INFO]: EventualVoice79[<ip address withheld>] logged in with entity id 781 at ([world]-248.66370847865463, 63.0, 112.6774180754822)
+[15:34:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
+[15:34:43] [Server thread/INFO]: EventualVoice79 lost connection: Disconnected
+[15:34:43] [Server thread/INFO]: EventualVoice79 left the game.
+[15:44:01] [LoginProcessingThread/INFO]: UUID of player andrew_tate_only is 9ee86b24-6590-3316-90d1-0b26318a7837
+[15:44:02] [Server thread/INFO]: andrew_tate_only[<ip address withheld>] logged in with entity id 839 at ([world]-250.5, 69.0, 198.5)
+[15:45:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5047ms or 100 ticks behind
+[15:46:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5108ms or 102 ticks behind
+[15:46:26] [Server thread/INFO]: andrew_tate_only lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[15:46:27] [Server thread/INFO]: andrew_tate_only left the game.
+[16:03:48] [LoginProcessingThread/INFO]: UUID of player EventualVoice79 is 1d688a32-92b4-3d33-8def-d2dacc3a0e88
+[16:03:56] [Server thread/INFO]: EventualVoice79[<ip address withheld>] logged in with entity id 950 at ([world]-248.66370847865463, 63.0, 112.6774180754822)
+[16:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7714ms or 154 ticks behind
+[16:04:28] [Server thread/INFO]: EventualVoice79 lost connection: Disconnected
+[16:04:28] [Server thread/INFO]: EventualVoice79 left the game.
+[16:05:12] [LoginProcessingThread/INFO]: UUID of player EventualVoice79 is 1d688a32-92b4-3d33-8def-d2dacc3a0e88
+[16:05:13] [Server thread/INFO]: EventualVoice79[<ip address withheld>] logged in with entity id 1007 at ([world]-248.66370847865463, 63.0, 112.6774180754822)
+[16:05:33] [Server thread/INFO]: EventualVoice79 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[16:05:33] [Server thread/INFO]: EventualVoice79 left the game.
+[16:05:42] [LoginProcessingThread/INFO]: UUID of player EventualVoice79 is 1d688a32-92b4-3d33-8def-d2dacc3a0e88
+[16:05:43] [Server thread/INFO]: EventualVoice79[<ip address withheld>] logged in with entity id 1016 at ([world]-248.66370847865463, 63.0, 112.6774180754822)
+[16:06:10] [Server thread/INFO]: EventualVoice79 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[16:06:11] [Server thread/INFO]: EventualVoice79 left the game.
